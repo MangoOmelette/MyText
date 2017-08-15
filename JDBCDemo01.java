@@ -11,7 +11,7 @@ import org.junit.Test;
 /**
  * 使用printf练习实现JDBC增删改查
  * 
- * @author 张诚
+ * @author name
  * @version 1.0 2017年8月14日20:07:55
  */
 
