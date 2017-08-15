@@ -13,7 +13,7 @@ import java.util.Properties;
 /**
  * JDBC工具类
  * 
- * @author 张诚
+ * @author name
  * @version 1.0 2017年8月14日21:12:04
  */
 public class JDBCUtils {
