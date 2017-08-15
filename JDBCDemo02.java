@@ -9,7 +9,7 @@ import org.junit.Test;
 /**
  * 用工具类 和 prinf实现jdbc的增删改查
  * 
- * @author 张诚
+ * @author name
  * @version 1.0 2017年8月14日21:09:40
  */
 public class JDBCDemo02 {
